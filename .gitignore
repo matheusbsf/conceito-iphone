@@ -1,0 +1,6 @@
+.vscode/settings.json
+bin/dispositivo/smartphone.class
+bin/dispositivo/sistemaoperacional/Ios.class
+bin/dispositivo/sistemaoperacional/recursos/AparelhoTelefonico.class
+bin/dispositivo/sistemaoperacional/recursos/NavegadorDaInternet.class
+bin/dispositivo/sistemaoperacional/recursos/ReprodutorDeMusica.class
